@@ -53,3 +53,5 @@ Settings persist to `~/.wingent-v7-settings.json`. Use the hub to change:
 - Glass transparency
 - Weather city
 - Run on startup
+
+ ## Join our dsc https://discord.gg/SWNTxSD5fv
